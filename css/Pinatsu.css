@@ -87,6 +87,10 @@ h6 {
 .fondo-equipo {
     
      background-image: url(../img/team/WORKTEAM.jpg);
+       -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
 }
 .bg-darkest-gray {
